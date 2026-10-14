@@ -1,0 +1,11 @@
+Trigger_Departments,Associated_Departments,Support,Confidence,Lift,Strategic_Action
+"Dept 92, Dept 94",Dept 93,0.136,0.931,5.065,"Place promotional endcaps and bundled coupons linking Dept 92, Dept 94 with Dept 93."
+Dept 93,"Dept 92, Dept 94",0.136,0.742,5.065,"Place promotional endcaps and bundled coupons linking Dept 93 with Dept 92, Dept 94."
+"Dept 8, Dept 94",Dept 93,0.081,0.929,5.051,"Place promotional endcaps and bundled coupons linking Dept 8, Dept 94 with Dept 93."
+Dept 93,"Dept 8, Dept 94",0.081,0.44,5.051,"Place promotional endcaps and bundled coupons linking Dept 93 with Dept 8, Dept 94."
+"Dept 90, Dept 38",Dept 93,0.088,0.921,5.008,"Place promotional endcaps and bundled coupons linking Dept 90, Dept 38 with Dept 93."
+Dept 93,"Dept 90, Dept 38",0.088,0.48,5.008,"Place promotional endcaps and bundled coupons linking Dept 93 with Dept 90, Dept 38."
+"Dept 40, Dept 94",Dept 93,0.109,0.919,4.999,"Place promotional endcaps and bundled coupons linking Dept 40, Dept 94 with Dept 93."
+Dept 93,"Dept 40, Dept 94",0.109,0.594,4.999,"Place promotional endcaps and bundled coupons linking Dept 93 with Dept 40, Dept 94."
+Dept 4,"Dept 2, Dept 94",0.11,0.55,4.986,"Place promotional endcaps and bundled coupons linking Dept 4 with Dept 2, Dept 94."
+"Dept 2, Dept 94",Dept 4,0.11,0.997,4.986,"Place promotional endcaps and bundled coupons linking Dept 2, Dept 94 with Dept 4."

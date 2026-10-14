@@ -1,0 +1,305 @@
+Cell   0 [markdown]: # **Project Name**    -
+Cell   1 [markdown]: ##### **Project Type**    - EDA/Regression/Classification/Unsupervised
+Cell   2 [markdown]: # **Project Summary -**
+Cell   3 [markdown]: Write the summary here within 500-600 words.
+Cell   4 [markdown]: # **GitHub Link -**
+Cell   5 [markdown]: Provide your GitHub Link here.
+Cell   6 [markdown]: # **Problem Statement**
+Cell   7 [markdown]: **Write Problem Statement Here.**
+Cell   8 [markdown]: # **General Guidelines** : -
+Cell   9 [markdown]: 1.   Well-structured, formatted, and commented code is required. 
+Cell  10 [markdown]: # ***Let's Begin !***
+Cell  11 [markdown]: ## ***1. Know Your Data***
+Cell  12 [markdown]: ### Import Libraries
+Cell  13 [code]: # Import Libraries
+Cell  14 [markdown]: ### Dataset Loading
+Cell  15 [code]: # Load Dataset
+Cell  16 [markdown]: ### Dataset First View
+Cell  17 [code]: # Dataset First Look
+Cell  18 [markdown]: ### Dataset Rows & Columns count
+Cell  19 [code]: # Dataset Rows & Columns count
+Cell  20 [markdown]: ### Dataset Information
+Cell  21 [code]: # Dataset Info
+Cell  22 [markdown]: #### Duplicate Values
+Cell  23 [code]: # Dataset Duplicate Value Count
+Cell  24 [markdown]: #### Missing Values/Null Values
+Cell  25 [code]: # Missing Values/Null Values Count
+Cell  26 [code]: # Visualizing the missing values
+Cell  27 [markdown]: ### What did you know about your dataset?
+Cell  28 [markdown]: Answer Here
+Cell  29 [markdown]: ## ***2. Understanding Your Variables***
+Cell  30 [code]: # Dataset Columns
+Cell  31 [code]: # Dataset Describe
+Cell  32 [markdown]: ### Variables Description
+Cell  33 [markdown]: Answer Here
+Cell  34 [markdown]: ### Check Unique Values for each variable.
+Cell  35 [code]: # Check Unique Values for each variable.
+Cell  36 [markdown]: ## 3. ***Data Wrangling***
+Cell  37 [markdown]: ### Data Wrangling Code
+Cell  38 [code]: # Write your code to make your dataset analysis ready.
+Cell  39 [markdown]: ### What all manipulations have you done and insights you found?
+Cell  40 [markdown]: Answer Here.
+Cell  41 [markdown]: ## ***4. Data Vizualization, Storytelling & Experimenting with charts : Understand the relationships
+Cell  42 [markdown]: #### Chart - 1
+Cell  43 [code]: # Chart - 1 visualization code
+Cell  44 [markdown]: ##### 1. Why did you pick the specific chart?
+Cell  45 [markdown]: Answer Here.
+Cell  46 [markdown]: ##### 2. What is/are the insight(s) found from the chart?
+Cell  47 [markdown]: Answer Here
+Cell  48 [markdown]: ##### 3. Will the gained insights help creating a positive business impact? 
+Cell  49 [markdown]: Answer Here
+Cell  50 [markdown]: #### Chart - 2
+Cell  51 [code]: # Chart - 2 visualization code
+Cell  52 [markdown]: ##### 1. Why did you pick the specific chart?
+Cell  53 [markdown]: Answer Here.
+Cell  54 [markdown]: ##### 2. What is/are the insight(s) found from the chart?
+Cell  55 [markdown]: Answer Here
+Cell  56 [markdown]: ##### 3. Will the gained insights help creating a positive business impact? 
+Cell  57 [markdown]: Answer Here
+Cell  58 [markdown]: #### Chart - 3
+Cell  59 [code]: # Chart - 3 visualization code
+Cell  60 [markdown]: ##### 1. Why did you pick the specific chart?
+Cell  61 [markdown]: Answer Here.
+Cell  62 [markdown]: ##### 2. What is/are the insight(s) found from the chart?
+Cell  63 [markdown]: Answer Here
+Cell  64 [markdown]: ##### 3. Will the gained insights help creating a positive business impact? 
+Cell  65 [markdown]: Answer Here
+Cell  66 [markdown]: #### Chart - 4
+Cell  67 [code]: # Chart - 4 visualization code
+Cell  68 [markdown]: ##### 1. Why did you pick the specific chart?
+Cell  69 [markdown]: Answer Here.
+Cell  70 [markdown]: ##### 2. What is/are the insight(s) found from the chart?
+Cell  71 [markdown]: Answer Here
+Cell  72 [markdown]: ##### 3. Will the gained insights help creating a positive business impact? 
+Cell  73 [markdown]: Answer Here
+Cell  74 [markdown]: #### Chart - 5
+Cell  75 [code]: # Chart - 5 visualization code
+Cell  76 [markdown]: ##### 1. Why did you pick the specific chart?
+Cell  77 [markdown]: Answer Here.
+Cell  78 [markdown]: ##### 2. What is/are the insight(s) found from the chart?
+Cell  79 [markdown]: Answer Here
+Cell  80 [markdown]: ##### 3. Will the gained insights help creating a positive business impact? 
+Cell  81 [markdown]: Answer Here
+Cell  82 [markdown]: #### Chart - 6
+Cell  83 [code]: # Chart - 6 visualization code
+Cell  84 [markdown]: ##### 1. Why did you pick the specific chart?
+Cell  85 [markdown]: Answer Here.
+Cell  86 [markdown]: ##### 2. What is/are the insight(s) found from the chart?
+Cell  87 [markdown]: Answer Here
+Cell  88 [markdown]: ##### 3. Will the gained insights help creating a positive business impact? 
+Cell  89 [markdown]: Answer Here
+Cell  90 [markdown]: #### Chart - 7
+Cell  91 [code]: # Chart - 7 visualization code
+Cell  92 [markdown]: ##### 1. Why did you pick the specific chart?
+Cell  93 [markdown]: Answer Here.
+Cell  94 [markdown]: ##### 2. What is/are the insight(s) found from the chart?
+Cell  95 [markdown]: Answer Here
+Cell  96 [markdown]: ##### 3. Will the gained insights help creating a positive business impact? 
+Cell  97 [markdown]: Answer Here
+Cell  98 [markdown]: #### Chart - 8
+Cell  99 [code]: # Chart - 8 visualization code
+Cell 100 [markdown]: ##### 1. Why did you pick the specific chart?
+Cell 101 [markdown]: Answer Here.
+Cell 102 [markdown]: ##### 2. What is/are the insight(s) found from the chart?
+Cell 103 [markdown]: Answer Here
+Cell 104 [markdown]: ##### 3. Will the gained insights help creating a positive business impact? 
+Cell 105 [markdown]: Answer Here
+Cell 106 [markdown]: #### Chart - 9
+Cell 107 [code]: # Chart - 9 visualization code
+Cell 108 [markdown]: ##### 1. Why did you pick the specific chart?
+Cell 109 [markdown]: Answer Here.
+Cell 110 [markdown]: ##### 2. What is/are the insight(s) found from the chart?
+Cell 111 [markdown]: Answer Here
+Cell 112 [markdown]: ##### 3. Will the gained insights help creating a positive business impact? 
+Cell 113 [markdown]: Answer Here
+Cell 114 [markdown]: #### Chart - 10
+Cell 115 [code]: # Chart - 10 visualization code
+Cell 116 [markdown]: ##### 1. Why did you pick the specific chart?
+Cell 117 [markdown]: Answer Here.
+Cell 118 [markdown]: ##### 2. What is/are the insight(s) found from the chart?
+Cell 119 [markdown]: Answer Here
+Cell 120 [markdown]: ##### 3. Will the gained insights help creating a positive business impact? 
+Cell 121 [markdown]: Answer Here
+Cell 122 [markdown]: #### Chart - 11
+Cell 123 [code]: # Chart - 11 visualization code
+Cell 124 [markdown]: ##### 1. Why did you pick the specific chart?
+Cell 125 [markdown]: Answer Here.
+Cell 126 [markdown]: ##### 2. What is/are the insight(s) found from the chart?
+Cell 127 [markdown]: Answer Here
+Cell 128 [markdown]: ##### 3. Will the gained insights help creating a positive business impact? 
+Cell 129 [markdown]: Answer Here
+Cell 130 [markdown]: #### Chart - 12
+Cell 131 [code]: # Chart - 12 visualization code
+Cell 132 [markdown]: ##### 1. Why did you pick the specific chart?
+Cell 133 [markdown]: Answer Here.
+Cell 134 [markdown]: ##### 2. What is/are the insight(s) found from the chart?
+Cell 135 [markdown]: Answer Here
+Cell 136 [markdown]: ##### 3. Will the gained insights help creating a positive business impact? 
+Cell 137 [markdown]: Answer Here
+Cell 138 [markdown]: #### Chart - 13
+Cell 139 [code]: # Chart - 13 visualization code
+Cell 140 [markdown]: ##### 1. Why did you pick the specific chart?
+Cell 141 [markdown]: Answer Here.
+Cell 142 [markdown]: ##### 2. What is/are the insight(s) found from the chart?
+Cell 143 [markdown]: Answer Here
+Cell 144 [markdown]: ##### 3. Will the gained insights help creating a positive business impact? 
+Cell 145 [markdown]: Answer Here
+Cell 146 [markdown]: #### Chart - 14 - Correlation Heatmap
+Cell 147 [code]: # Correlation Heatmap visualization code
+Cell 148 [markdown]: ##### 1. Why did you pick the specific chart?
+Cell 149 [markdown]: Answer Here.
+Cell 150 [markdown]: ##### 2. What is/are the insight(s) found from the chart?
+Cell 151 [markdown]: Answer Here
+Cell 152 [markdown]: #### Chart - 15 - Pair Plot
+Cell 153 [code]: # Pair Plot visualization code
+Cell 154 [markdown]: ##### 1. Why did you pick the specific chart?
+Cell 155 [markdown]: Answer Here.
+Cell 156 [markdown]: ##### 2. What is/are the insight(s) found from the chart?
+Cell 157 [markdown]: Answer Here
+Cell 158 [markdown]: ## ***5. Hypothesis Testing***
+Cell 159 [markdown]: ### Based on your chart experiments, define three hypothetical statements from the dataset. In the n
+Cell 160 [markdown]: Answer Here.
+Cell 161 [markdown]: ### Hypothetical Statement - 1
+Cell 162 [markdown]: #### 1. State Your research hypothesis as a null hypothesis and alternate hypothesis.
+Cell 163 [markdown]: Answer Here.
+Cell 164 [markdown]: #### 2. Perform an appropriate statistical test.
+Cell 165 [code]: # Perform Statistical Test to obtain P-Value
+Cell 166 [markdown]: ##### Which statistical test have you done to obtain P-Value?
+Cell 167 [markdown]: Answer Here.
+Cell 168 [markdown]: ##### Why did you choose the specific statistical test?
+Cell 169 [markdown]: Answer Here.
+Cell 170 [markdown]: ### Hypothetical Statement - 2
+Cell 171 [markdown]: #### 1. State Your research hypothesis as a null hypothesis and alternate hypothesis.
+Cell 172 [markdown]: Answer Here.
+Cell 173 [markdown]: #### 2. Perform an appropriate statistical test.
+Cell 174 [code]: # Perform Statistical Test to obtain P-Value
+Cell 175 [markdown]: ##### Which statistical test have you done to obtain P-Value?
+Cell 176 [markdown]: Answer Here.
+Cell 177 [markdown]: ##### Why did you choose the specific statistical test?
+Cell 178 [markdown]: Answer Here.
+Cell 179 [markdown]: ### Hypothetical Statement - 3
+Cell 180 [markdown]: #### 1. State Your research hypothesis as a null hypothesis and alternate hypothesis.
+Cell 181 [markdown]: Answer Here.
+Cell 182 [markdown]: #### 2. Perform an appropriate statistical test.
+Cell 183 [code]: # Perform Statistical Test to obtain P-Value
+Cell 184 [markdown]: ##### Which statistical test have you done to obtain P-Value?
+Cell 185 [markdown]: Answer Here.
+Cell 186 [markdown]: ##### Why did you choose the specific statistical test?
+Cell 187 [markdown]: Answer Here.
+Cell 188 [markdown]: ## ***6. Feature Engineering & Data Pre-processing***
+Cell 189 [markdown]: ### 1. Handling Missing Values
+Cell 190 [code]: # Handling Missing Values & Missing Value Imputation
+Cell 191 [markdown]: #### What all missing value imputation techniques have you used and why did you use those techniques
+Cell 192 [markdown]: Answer Here.
+Cell 193 [markdown]: ### 2. Handling Outliers
+Cell 194 [code]: # Handling Outliers & Outlier treatments
+Cell 195 [markdown]: ##### What all outlier treatment techniques have you used and why did you use those techniques?
+Cell 196 [markdown]: Answer Here.
+Cell 197 [markdown]: ### 3. Categorical Encoding
+Cell 198 [code]: # Encode your categorical columns
+Cell 199 [markdown]: #### What all categorical encoding techniques have you used & why did you use those techniques?
+Cell 200 [markdown]: Answer Here.
+Cell 201 [markdown]: ### 4. Textual Data Preprocessing 
+Cell 202 [markdown]: #### 1. Expand Contraction
+Cell 203 [code]: # Expand Contraction
+Cell 204 [markdown]: #### 2. Lower Casing
+Cell 205 [code]: # Lower Casing
+Cell 206 [markdown]: #### 3. Removing Punctuations
+Cell 207 [code]: # Remove Punctuations
+Cell 208 [markdown]: #### 4. Removing URLs & Removing words and digits contain digits.
+Cell 209 [code]: # Remove URLs & Remove words and digits contain digits
+Cell 210 [markdown]: #### 5. Removing Stopwords & Removing White spaces
+Cell 211 [code]: # Remove Stopwords
+Cell 212 [code]: # Remove White spaces
+Cell 213 [markdown]: #### 6. Rephrase Text
+Cell 214 [code]: # Rephrase Text
+Cell 215 [markdown]: #### 7. Tokenization
+Cell 216 [code]: # Tokenization
+Cell 217 [markdown]: #### 8. Text Normalization
+Cell 218 [code]: # Normalizing Text (i.e., Stemming, Lemmatization etc.)
+Cell 219 [markdown]: ##### Which text normalization technique have you used and why?
+Cell 220 [markdown]: Answer Here.
+Cell 221 [markdown]: #### 9. Part of speech tagging
+Cell 222 [code]: # POS Taging
+Cell 223 [markdown]: #### 10. Text Vectorization
+Cell 224 [code]: # Vectorizing Text
+Cell 225 [markdown]: ##### Which text vectorization technique have you used and why?
+Cell 226 [markdown]: Answer Here.
+Cell 227 [markdown]: ### 4. Feature Manipulation & Selection
+Cell 228 [markdown]: #### 1. Feature Manipulation
+Cell 229 [code]: # Manipulate Features to minimize feature correlation and create new features
+Cell 230 [markdown]: #### 2. Feature Selection
+Cell 231 [code]: # Select your features wisely to avoid overfitting
+Cell 232 [markdown]: ##### What all feature selection methods have you used  and why?
+Cell 233 [markdown]: Answer Here.
+Cell 234 [markdown]: ##### Which all features you found important and why?
+Cell 235 [markdown]: Answer Here.
+Cell 236 [markdown]: ### 5. Data Transformation
+Cell 237 [markdown]: #### Do you think that your data needs to be transformed? If yes, which transformation have you used
+Cell 238 [code]: # Transform Your data
+Cell 239 [markdown]: ### 6. Data Scaling
+Cell 240 [code]: # Scaling your data
+Cell 241 [markdown]: ##### Which method have you used to scale you data and why?
+Cell 242 [markdown]: ### 7. Dimesionality Reduction
+Cell 243 [markdown]: ##### Do you think that dimensionality reduction is needed? Explain Why?
+Cell 244 [markdown]: Answer Here.
+Cell 245 [code]: # DImensionality Reduction (If needed)
+Cell 246 [markdown]: ##### Which dimensionality reduction technique have you used and why? (If dimensionality reduction d
+Cell 247 [markdown]: Answer Here.
+Cell 248 [markdown]: ### 8. Data Splitting
+Cell 249 [code]: # Split your data to train and test. Choose Splitting ratio wisely.
+Cell 250 [markdown]: ##### What data splitting ratio have you used and why?
+Cell 251 [markdown]: Answer Here.
+Cell 252 [markdown]: ### 9. Handling Imbalanced Dataset
+Cell 253 [markdown]: ##### Do you think the dataset is imbalanced? Explain Why.
+Cell 254 [markdown]: Answer Here.
+Cell 255 [code]: # Handling Imbalanced Dataset (If needed)
+Cell 256 [markdown]: ##### What technique did you use to handle the imbalance dataset and why? (If needed to be balanced)
+Cell 257 [markdown]: Answer Here.
+Cell 258 [markdown]: ## ***7. ML Model Implementation***
+Cell 259 [markdown]: ### ML Model - 1
+Cell 260 [code]: # ML Model - 1 Implementation
+Cell 261 [markdown]: #### 1. Explain the ML Model used and it's performance using Evaluation metric Score Chart.
+Cell 262 [code]: # Visualizing evaluation Metric Score chart
+Cell 263 [markdown]: #### 2. Cross- Validation & Hyperparameter Tuning
+Cell 264 [code]: # ML Model - 1 Implementation with hyperparameter optimization techniques (i.e., GridSearch CV, Rand
+Cell 265 [markdown]: ##### Which hyperparameter optimization technique have you used and why?
+Cell 266 [markdown]: Answer Here.
+Cell 267 [markdown]: ##### Have you seen any improvement? Note down the improvement with updates Evaluation metric Score 
+Cell 268 [markdown]: Answer Here.
+Cell 269 [markdown]: ### ML Model - 2
+Cell 270 [markdown]: #### 1. Explain the ML Model used and it's performance using Evaluation metric Score Chart.
+Cell 271 [code]: # Visualizing evaluation Metric Score chart
+Cell 272 [markdown]: #### 2. Cross- Validation & Hyperparameter Tuning
+Cell 273 [code]: # ML Model - 1 Implementation with hyperparameter optimization techniques (i.e., GridSearch CV, Rand
+Cell 274 [markdown]: ##### Which hyperparameter optimization technique have you used and why?
+Cell 275 [markdown]: Answer Here.
+Cell 276 [markdown]: ##### Have you seen any improvement? Note down the improvement with updates Evaluation metric Score 
+Cell 277 [markdown]: Answer Here.
+Cell 278 [markdown]: #### 3. Explain each evaluation metric's indication towards business and the business impact pf the 
+Cell 279 [markdown]: Answer Here.
+Cell 280 [markdown]: ### ML Model - 3
+Cell 281 [code]: # ML Model - 3 Implementation
+Cell 282 [markdown]: #### 1. Explain the ML Model used and it's performance using Evaluation metric Score Chart.
+Cell 283 [code]: # Visualizing evaluation Metric Score chart
+Cell 284 [markdown]: #### 2. Cross- Validation & Hyperparameter Tuning
+Cell 285 [code]: # ML Model - 3 Implementation with hyperparameter optimization techniques (i.e., GridSearch CV, Rand
+Cell 286 [markdown]: ##### Which hyperparameter optimization technique have you used and why?
+Cell 287 [markdown]: Answer Here.
+Cell 288 [markdown]: ##### Have you seen any improvement? Note down the improvement with updates Evaluation metric Score 
+Cell 289 [markdown]: Answer Here.
+Cell 290 [markdown]: ### 1. Which Evaluation metrics did you consider for a positive business impact and why?
+Cell 291 [markdown]: Answer Here.
+Cell 292 [markdown]: ### 2. Which ML model did you choose from the above created models as your final prediction model an
+Cell 293 [markdown]: Answer Here.
+Cell 294 [markdown]: ### 3. Explain the model which you have used and the feature importance using any model explainabili
+Cell 295 [markdown]: Answer Here.
+Cell 296 [markdown]: ## ***8.*** ***Future Work (Optional)***
+Cell 297 [markdown]: ### 1. Save the best performing ml model in a pickle file or joblib file format for deployment proce
+Cell 298 [code]: # Save the File
+Cell 299 [markdown]: ### 2. Again Load the saved model file and try to predict unseen data for a sanity check.
+Cell 300 [code]: # Load the File and predict unseen data.
+Cell 301 [markdown]: ### ***Congrats! Your model is successfully created and ready for deployment on a live server for a 
+Cell 302 [markdown]: # **Conclusion**
+Cell 303 [markdown]: Write the conclusion here.
+Cell 304 [markdown]: ### ***Hurrah! You have successfully completed your Machine Learning Capstone Project !!!***
